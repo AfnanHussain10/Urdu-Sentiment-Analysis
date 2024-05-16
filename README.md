@@ -1,4 +1,4 @@
-# 📝 Urdu Sentiment Analysis
+# 📝 Urdu Sentiment Analysis Using Deep Learning Techniques
 
 Welcome to the Urdu Sentiment Analysis project repository! 🌟 Here, I've curated the code and resources from my comprehensive exploration into sentiment analysis in the Urdu language, employing a variety of deep learning models and word embeddings techniques.
 
